@@ -216,6 +216,7 @@ declare class A {}
 
 - 타입간 대입 가능 표
 ![image](https://user-images.githubusercontent.com/10962668/179646513-3c3be896-3bbc-4784-848b-06bc47e8b129.png)
+초록색 체크는 X 라고 생각, strict: ture로 진행하기 때문
 
 - 타입 가드
 ```typescript
